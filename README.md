@@ -1,10 +1,10 @@
-## Hey,
+### Hey,
 
 I'm an Engineering Physics student at the University of British Columbia.
 Currently working on software and firmware for an electric race car with UBC Formula Electric.
 Prev. Embedded Systems Engineer co-op at Hypercharge Networks
 
-Tech Stack
+### Tech Stack
 - Languages: C, C++, Python, Java, MATLAB, Rust (learning)
 - Tools: STM32, Git, FreeRTOS, VS Code, Jupyter, ROS
 - ML/DS: NumPy, Pandas, scikit-learn, PyTorch (beginner)
