@@ -2,6 +2,7 @@
 
 I'm an Engineering Physics student at the University of British Columbia.
 Currently working on software and firmware for an electric race car with UBC Formula Electric.
+Prev. Embedded Systems Engineer co-op at Hypercharge Networks
 
 Tech Stack
 - Languages: C, C++, Python, Java, MATLAB, Rust (learning)
