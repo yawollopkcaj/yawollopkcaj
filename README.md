@@ -38,8 +38,11 @@ Prev:
 ## Tech Stack
 
 **Languages:** C++, C, Verilog, Python, Rust
+
 **Embedded:** STM32, ESP32, FreeRTOS, Linux
+
 **Hardware:** FPGA, PCB Design, Logic Analysis
+
 **Other:** MATLAB, Simulink, PyTorch, ROS2
 
 ---
