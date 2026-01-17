@@ -21,7 +21,7 @@ Prev:
 
   _A custom Systolic Array AI accelerator architected on FPGA with a custom Python compiler for INT8 quantization_
 
-* ["Fizz Detective"](https://github.com/yawollopkcaj/fizz-detective-portfolio):
+* [Fizz Detective](https://github.com/yawollopkcaj/fizz-detective-portfolio):
 
   _An autonomous robot software stack (ROS/Gazebo) driven by End-to-End Imitation Learning. Features a hybrid FSM architecture and custom OCR to navigate dynamic urban environments_
 
