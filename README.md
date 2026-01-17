@@ -17,7 +17,7 @@ Prev:
 
 ## Some Projects I'm Proud Of
 
-* [Neural Accelerator (Under Construction)]():
+* [Neural Accelerator (Under Construction ⚠️)]():
 
   _A custom Systolic Array AI accelerator architected on FPGA with a custom Python compiler for INT8 quantization_
 
