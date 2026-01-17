@@ -1,15 +1,23 @@
 # Jack Polloway's GitHub
 
-I'm an **Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, and Custom Silicon**.
+**Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, and Custom Silicon**.
+
+## About Me
+* Top skills: Machine Learning, Embedded Software, Optimization, Robotics
+* First-principles problem solver driven to engineer solutions for the world's most critical technical challenges.
+* Always open to opportunities and new ideas
 
 Currently:
-- Firmware Engineer for **UBC Formula Electric** (UBC's electric race car student design team)
-- Currently interested in FPGA's for AI inference on embedded systems
+* Firmware Engineer for **UBC Formula Electric** (UBC's electric race car student design team)
+* Currently interested in FPGA's for AI inference on embedded systems
+
+Prev:
+* Embedded Systems Engineer Intern at Hypercharge Networks
 ---
 
-## Cool Projects 
+## Cool Projects
 
-### Neural Accelerator ⬅️ Under Construction 🚧
+### Neural Accelerator (Under Construction)
 **Verilog | Python | FPGA**
 A custom Systolic Array AI accelerator designed from scratch on a Cyclone V FPGA.
 - **Performance:** Achieved ~170x latency reduction vs. CPU baseline.
