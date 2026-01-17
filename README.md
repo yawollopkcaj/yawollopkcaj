@@ -3,7 +3,7 @@
 **Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, and Custom Silicon**.
 
 ## About Me
-* Top skills: Machine Learning, Embedded Software, Optimization, Robotics
+* Top skills: Machine Learning, Embedded Software, Robotics, Optimization
 * First-principles problem solver driven to engineer solutions for the world's most critical technical challenges.
 * Always open to opportunities and new ideas
 
@@ -15,13 +15,13 @@ Prev:
 * Embedded Systems Engineer Intern at Hypercharge Networks
 ---
 
-## Cool Projects
+## Some Projects I'm Proud Of
 
 * [Neural Accelerator (Under Construction)]():
 _A custom Systolic Array AI accelerator architected on FPGA with a custom Python compiler for INT8 quantization_
 
 * [Robot Summer Project (Autonomous Rescue Robot)](https://github.com/yawollopkcaj/autonomous-pet-rescue-robot):
-_A fully autonomous search-and-rescue robot built from the PCB up, integrating custom H-bridge drivers, ESP32 firmware, and edge-AI computer vision._
+_a 3rd place search-and-rescue robot built from scratch, integrating PCBs, bare metal ESP32 firmware, and edge-AI computer vision._
 
 * [Formula Electric Firmware](https://github.com/UBCFormulaElectric/Consolidated-Firmware):
 _FreeRTOS firmware for a 600V electric racing vehicle_
