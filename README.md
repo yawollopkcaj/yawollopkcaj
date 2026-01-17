@@ -19,7 +19,7 @@ Prev:
 
 * [Neural Accelerator (Under Construction ⚠️)]():
 
-  _A custom Systolic Array AI accelerator architected on FPGA with a custom Python compiler for INT8 quantization_
+  _A custom Systolic Array AI accelerator architected on a DE0-CV FPGA with a custom Python compiler for INT8 quantization_
 
 * [Fizz Detective](https://github.com/yawollopkcaj/fizz-detective-portfolio):
 
