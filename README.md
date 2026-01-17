@@ -9,14 +9,13 @@ Currently:
 
 ## Cool Projects 
 
-### [Neural Accelerator (Mini-TPU)](LINK_TO_REPO)
+### Neural Accelerator ⬅️ Under Construction 🚧
 **Verilog | Python | FPGA**
 A custom Systolic Array AI accelerator designed from scratch on a Cyclone V FPGA.
 - **Performance:** Achieved ~170x latency reduction vs. CPU baseline.
 - **Architecture:** Implemented Google TPU-style matrix multiplication units and a custom Python compiler for INT8 quantization.
-- *[Insert a GIF of the simulation waveform or the board blinking]*
 
-### [Autonomous Rescue Robot](LINK_TO_REPO)
+### [Robot Summer Project (Autonomous Rescue Robot)](https://github.com/yawollopkcaj/autonomous-pet-rescue-robot)
 **C (FreeRTOS) | ESP32 | Computer Vision**
 A fully autonomous search-and-rescue robot built from the PCB up.
 - **Hardware:** Custom H-bridge motor drivers & power distribution.
@@ -24,10 +23,10 @@ A fully autonomous search-and-rescue robot built from the PCB up.
 - **Result:** >95% navigation accuracy in high-noise environments.
 - *[Insert that GIF of the robot picking up the "pet"]*
 
-### [Formula Electric Firmware](LINK_TO_REPO)
+### [Formula Electric Firmware](https://github.com/UBCFormulaElectric/Consolidated-Firmware)
 **C++ | STM32 | CAN Bus**
 Safety-critical firmware for a 600V electric racing vehicle.
-- **Focus:** Fault detection, thermal management, and robust CAN communication.
+- **Focus:** Battery Management System (BMS).
 
 ---
 
