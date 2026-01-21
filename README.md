@@ -17,7 +17,7 @@ Prev:
 
 ## Some Projects I'm Proud Of
 
-* [Neural Accelerator (Under Construction ⚠️)]():
+* [FPGA-Accelerated Neural Network (Under Construction ⚠️)](https://github.com/yawollopkcaj/FPGA-GTP-Pico-Accelerator):
 
   _A custom Systolic Array AI accelerator architected on a DE0-CV FPGA with a custom Python compiler for INT8 quantization_
 
@@ -33,20 +33,4 @@ Prev:
 
   _FreeRTOS firmware for a 600V electric racing vehicle_
 
----
 
-## Tech Stack
-
-**Languages:** C++, C, Verilog, Python, Rust
-
-**Embedded:** STM32, ESP32, FreeRTOS, Linux
-
-**Hardware:** FPGA, PCB Design, Logic Analysis
-
-**Other:** MATLAB, Simulink, PyTorch, ROS2
-
----
-
-## Contact
-
-[Email](jack_polloway@icloud.com) • [LinkedIn](https://linkedin.com/in/jackpolloway)
