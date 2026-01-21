@@ -1,6 +1,6 @@
 # Jack Polloway's GitHub
 
-**Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, and Custom Silicon**.
+**Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, Machine Learning, and Silicon**.
 
 ## About Me
 * Top skills: Machine Learning, Embedded Software, Robotics, Optimization
