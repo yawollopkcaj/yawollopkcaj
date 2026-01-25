@@ -3,7 +3,7 @@
 **Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, Machine Learning, and Silicon**.
 
 ## About Me
-* Top skills: Machine Learning, Embedded Software, Robotics, Optimization
+* **Top skills:** Machine Learning, Embedded Software, Robotics, Optimization
 * First-principles problem solver driven to engineer solutions for the world's most critical technical challenges.
 * Always open to opportunities and new ideas
 
