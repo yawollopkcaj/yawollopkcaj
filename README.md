@@ -17,7 +17,7 @@ Prev:
 
 ## Some Projects I'm Proud Of
 
-* [FPGA-Accelerated Neural Network (Under Construction ⚠️)](https://github.com/yawollopkcaj/FPGA-GTP-Pico-Accelerator):
+* [FPGA-Acceleration for LLMs (newly rennovated!)](https://github.com/yawollopkcaj/FPGA-GTP-Pico-Accelerator):
 
   _A custom Systolic Array AI accelerator architected on a DE0-CV FPGA with a custom Python compiler for INT8 quantization_
 
