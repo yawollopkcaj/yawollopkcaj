@@ -27,7 +27,7 @@ Prev:
 
 * [Robot Summer Project (Autonomous Rescue Robot)](https://github.com/yawollopkcaj/autonomous-pet-rescue-robot):
 
-  _a 3rd place search-and-rescue robot built from scratch, integrating PCBs, bare metal ESP32 firmware, and edge-AI computer vision._
+  _a 3rd place search-and-rescue robot built from scratch, integrating PCBs, bare metal ESP32 firmware with FreeRTOS, and edge-AI computer vision._
 
 * [Formula Electric Firmware](https://github.com/UBCFormulaElectric/Consolidated-Firmware):
 
