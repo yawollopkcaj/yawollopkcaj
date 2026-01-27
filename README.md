@@ -2,18 +2,18 @@
 I'm **Jack Polloway**, an **Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, Machine Learning, and Silicon**. I'm currently a Firmware Engineer for **UBC Formula Electric** (UBC's electric race car student design team). I was recently a Embedded Systems Engineer Intern at Hypercharge Networks.
 
 ## My interests are...
-* Robotics
-* Machine Learning
-* Reinforcement Learning
-* Quantum Computing
-* Custom Silicon
+* Robotics 🤖
+* Machine Learning 🧠
+* Reinforcement Learning 🤓
+* Quantum Computing ⚛️
+* Custom Silicon ⚡️
 
 ## My hobbies are...
-* Skiing
-* Soccer
-* Nutrition & Health
-* Mountain Biking
-* Surfing 
+* Skiing ⛷️
+* Soccer ⚽️
+* Nutrition & Health 💪
+* Mountain Biking 🚵
+* Surfing 🏄
 
 ## Check out what I've been working on recently...
 
