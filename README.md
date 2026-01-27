@@ -1,21 +1,18 @@
 # Jack Polloway's GitHub
 
-**Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, Machine Learning, and Silicon**.
+I'm Jack, an **Engineering Physics** student at the University of British Columbia (UBC) building at the intersection of **Firmware, Robotics, Machine Learning, and Silicon**. I'm currently a Firmware Engineer for **UBC Formula Electric** (UBC's electric race car student design team). I was recently a Embedded Systems Engineer Intern at Hypercharge Networks.
 
-## About Me
+## My interests are...
 * **Top skills:** Machine Learning, Embedded Software, Robotics, Optimization
 * First-principles problem solver driven to engineer solutions for the world's most critical technical challenges.
 * Always open to opportunities and new ideas
 
-Currently:
-* Firmware Engineer for **UBC Formula Electric** (UBC's electric race car student design team)
-* Currently interested in FPGA's for AI inference on embedded systems
+## My hobbies are...
 
-Prev:
-* Embedded Systems Engineer Intern at Hypercharge Networks
+
 ---
 
-## Some Projects I'm Proud Of
+## Check out what I've been working on recently...
 
 * [FPGA-Acceleration for LLMs](https://github.com/yawollopkcaj/FPGA-GTP-Pico-Accelerator):
 
